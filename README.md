@@ -21,7 +21,7 @@ sudo cp etc/sample_virtbmc.conf /etc/virtbmc/virtbmc.conf
 
 Configure virtbmc for your environment:
 ```
-sudo vi /etc/vurtbmc/virtbmc.conf
+sudo vi /etc/virtbmc/virtbmc.conf
 ```
 
 **Execution:**
